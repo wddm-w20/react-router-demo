@@ -1,3 +1,18 @@
+# React Router Demo
+
+## Install and run
+
+```sh
+# install modules
+npm install
+
+# run locally
+npm run start
+
+# build dist
+npm run build
+```
+
 ## Changes from the live lesson
 
 - `webpack.config.js` was modified to fix the dev server
